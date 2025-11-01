@@ -1,0 +1,15 @@
+# Core framework
+streamlit
+
+# Numerical and scientific computing
+numpy
+scipy
+
+# PDF report generation
+reportlab
+
+# Plotting and visual support (optional but useful for visual output)
+matplotlib
+
+# For data handling (optional)
+pandas
