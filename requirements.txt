@@ -1,15 +1,17 @@
-# Core framework
-streamlit
+# --- Core Web Framework ---
+streamlit==1.39.0
 
-# Numerical and scientific computing
-numpy
-scipy
+# --- Numerical & Engineering Computations ---
+numpy==1.26.4
+scipy==1.13.1
 
-# PDF report generation
-reportlab
+# --- PDF Generation for Detailed Report ---
+reportlab==4.2.2
 
-# Plotting and visual support (optional but useful for visual output)
-matplotlib
+# --- Data Handling (optional but useful for tabular summaries) ---
+pandas==2.2.2
 
-# For data handling (optional)
-pandas
+# --- Plotting (optional for moment–curvature or interaction charts) ---
+matplotlib==3.9.2
+
+# --- Date & File utilities --
